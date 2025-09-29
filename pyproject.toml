@@ -1,0 +1,7 @@
+[project]
+name = "kira"
+version = "0.1.0"
+description = "基于 Nonebot2 的自用 Bot, 从 Hoshinobot 迁移而来"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
